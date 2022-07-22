@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @shawn-coding
+- 👋 Hi, I’m Shawn Foreman, @shawn-coding
 - 👀 I’m interested in various forms of computer science and computer design, and a little bit in visual effects, animation, and computer simulations.
 - I have a background in various types of programming languages and professional experience with machine learning and data analysis. 
-- 🌱 I’m currently applying for junior level positions while making some smaller applications to fill out my knowledge base.
-- 💞️ I’m looking to collaborate on some beginner-level projects, front-end web design, or machine learning projects.
-- 📫 How to reach me - My primary email is shawncode484@gmail.com
+- 🌱 I’m currently working at SkillStorm under their Java Developer Training program. 
+- 💞️ I’m looking to collaborate on some beginner-level projects, and work with my fellow Stormers!
+- 📫 How to reach me - My primary email is shawnwork35@gmail.com, my code-centric email is shawncode484@gmail.com.
 
 <!---
 shawn-coding/shawn-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
